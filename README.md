@@ -11,7 +11,7 @@ class Greeter(val name: String){
 fun main(args: Array<String>){
   Greeter("World!").greet();
 }
-```
+
 
 Ktlin基础语法
 
