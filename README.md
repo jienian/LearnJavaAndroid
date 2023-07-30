@@ -2,7 +2,7 @@
 
 Kotlin风格
 
-kotlin
+```kotlin
 class Greeter(val name: String){
   fun greet(){
     println("hello, $name")
@@ -11,7 +11,7 @@ class Greeter(val name: String){
 fun main(args: Array<String>){
   Greeter("World!").greet();
 }
-
+```
 
 Ktlin基础语法
 
