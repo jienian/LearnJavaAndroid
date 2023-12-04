@@ -1,5 +1,5 @@
-# Learn Android-Kotlin
-# 这是我学习Kotlin的过程，希望大家多多指教。
+# 学习 Android-Kotlin
+# 欢迎大家一起学习 Kotlin 语言，互相帮助提高，谢谢～
 # 目录
 
 - [1. 类和函数](#类和函数)
